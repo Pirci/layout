@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Layout Project Page
 
-> HTML & CSS #5th Homework Project (Layout).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Layout Project
 
 ## Live Demo
 
